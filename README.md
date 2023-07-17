@@ -1,4 +1,3 @@
 # PruebaHub
 
 iniciando
-mirror hub
